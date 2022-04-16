@@ -1,0 +1,23 @@
+{
+  "name": "typed-request",
+  "version": "1.0.0",
+  "description": "An example of how you can type or js request without fully usage of TypeScript or just with JSDocs.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasgheno/typed-request.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiasgheno/typed-request/issues"
+  },
+  "homepage": "https://github.com/mathiasgheno/typed-request#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
